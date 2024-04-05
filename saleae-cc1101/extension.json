@@ -1,0 +1,13 @@
+{
+  "name": "cc1101",
+  "apiVersion": "1.0.0",
+  "author": "Jeff Mathews",
+  "version": "0.0.1",
+  "description": "",
+  "extensions": {
+    "saleae-cc1101": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
